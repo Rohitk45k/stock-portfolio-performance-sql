@@ -4,7 +4,10 @@ This project uses SQL to analyze 4,000+ stock transactions. It helps track how u
 
 **Project Title**
 Stock Portfolio Performance Tracker (SQL Project)
+
+
 **Project Presentation**:-
+https://github.com/Rohitk45k/stock-portfolio-performance-sql/blob/main/Stock_Portfolio_Tracker.pdf
 
 
 **Dataset Information**
